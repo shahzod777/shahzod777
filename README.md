@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shokhzod Khurramov</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width = "400" src="https://i.pinimg.com/originals/ae/d1/1d/aed11d6975231b91c8e992c02b8376da.gif">
+<img align="right" alt="Coding" width="400" src="https://cutewallpaper.org/26/artifical-intelligence-gif-wallpaper/artificial-intelligence-motion-by-faruqueeazam-on-dribbble.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzod777" alt="shahzod777" /></a> </p>
 
