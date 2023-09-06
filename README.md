@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **.NET, C++ game development, AI**
 
-- 📫 How to reach me **xurramovshaxzod777@gmail.com**
+- 📫 How to reach me **shahzodsheyx2000@gmail.com**
 
 - ⚡ Fun fact **Coding is my hobby**
 
